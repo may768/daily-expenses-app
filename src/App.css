@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f7fa;
+  color: #333;
+}
+
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header, footer {
+  text-align: center;
+  margin: 20px 0;
+}
+.auth-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  background: #f2f2f2;
+  border-radius: 12px;
+}
+.auth-container input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+.auth-container button {
+  width: 100%;
+  padding: 10px;
+}
+body.night-mode button {
+  background-color: #222;
+  color: white;
+  border: 1px solid #555;
+}
+
+body.day-mode button {
+  background-color: #f0f0f0;
+  color: black;
+  border: 1px solid #ccc;
+}
+body.day-mode {
+  background-color: #f4f4f4;
+  color: #000;
+  transition: background-color 0.5s ease;
+}
+
+body.night-mode {
+  background-color: #000;
+  color: #fff;
+  transition: background-color 0.5s ease;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
+
+body.day-mode button {
+  background: #e0e0e0;
+  color: #000;
+}
+
+body.night-mode button {
+  background: #222;
+  color: #fff;
+}
+body.night-mode .balance-bar {
+  background-color: #333;
+  color: #fff;
+}
+
+body.day-mode .balance-bar {
+  background-color: #e7f3ff;
+  color: #000;
+}
