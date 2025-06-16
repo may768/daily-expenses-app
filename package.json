@@ -2,7 +2,7 @@
   "name": "budget-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://may768.github.io/budget-app",
+  "homepage": "https://may768.github.io/daily-expenses-app",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
