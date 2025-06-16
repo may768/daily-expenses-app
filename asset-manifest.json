@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/daily-expenses-app/static/css/main.607b93d8.css",
+    "main.js": "/daily-expenses-app/static/js/main.971ab149.js",
+    "index.html": "/daily-expenses-app/index.html",
+    "main.607b93d8.css.map": "/daily-expenses-app/static/css/main.607b93d8.css.map",
+    "main.971ab149.js.map": "/daily-expenses-app/static/js/main.971ab149.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607b93d8.css",
+    "static/js/main.971ab149.js"
+  ]
+}
